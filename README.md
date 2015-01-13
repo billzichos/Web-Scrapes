@@ -6,3 +6,7 @@ The CPI is calculated monthly by the Bureau of Labor Statistics within the US De
 
 ## Department of Defense Contracts
 I am currently researching how to scrape won government contracts awarded by the US Department of Defense.
+
+## Stock Price
+I am currently researching how to scrape stock price information for selected NYSE and NASDAQ stocks.
+
