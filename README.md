@@ -10,6 +10,11 @@ I am currently researching how to scrape won government contracts awarded by the
 ## Stock Price
 I am currently researching how to scrape stock price information for selected NYSE and NASDAQ stocks.
 
-## USGBC
+## US Green Building Council
+I am currently researching how to scrape LEEP building projects from the USGBC website.
 
 ## US Census
+I am currently researching how to scrape Census data from the US Census site.
+
+## Zip Code
+I am currently researching how to scrape zip code information from zip-codes.com.
